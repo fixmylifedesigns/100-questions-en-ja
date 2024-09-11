@@ -1,6 +1,5 @@
 [
   {
-    "id":1,
     "japanese": "どんなときに一番幸せを感じますか？",
     "english": "What moments make you feel the happiest?"
   },
@@ -199,5 +198,205 @@
   {
     "japanese": "日々の生活で大切にしていることは何ですか？",
     "english": "What do you consider important in daily life?"
+  },
+  {
+    "japanese": "自分の性格や特性をどう思いますか？",
+    "english": "How do you view your own personality and traits?"
+  },
+  {
+    "japanese": "一緒に過ごす時間で特に楽しみたいことは？",
+    "english": "What would you particularly enjoy doing together?"
+  },
+  {
+    "japanese": "自分の未来に対する不安や希望はありますか？",
+    "english": "What are your hopes or concerns about your future?"
+  },
+  {
+    "japanese": "理想のデートやサプライズのアイデアはありますか？",
+    "english": "Do you have any ideal date or surprise ideas?"
+  },
+  {
+    "japanese": "お互いに期待するサポートや支援は何ですか？",
+    "english": "What support or help do you expect from each other?"
+  },
+  {
+    "japanese": "自分にとって「愛」や「ロマンチック」の定義は？",
+    "english": "How do you define \"love\" or \"romance\"?"
+  },
+  {
+    "japanese": "どんな価値観や信念を持っていますか？",
+    "english": "What values or beliefs do you hold?"
+  },
+  {
+    "japanese": "どのようにお互いにリラックスする時間を持ちますか？",
+    "english": "How do you plan to have relaxing time together?"
+  },
+  {
+    "japanese": "幸せを感じる瞬間をどうやって共有しますか？",
+    "english": "How do you share moments that make you feel happy?"
+  },
+  {
+    "japanese": "理想の休日の過ごし方で一番の楽しみは？",
+    "english": "What is the most enjoyable part of your ideal holiday?"
+  },
+  {
+    "japanese": "自分のライフスタイルで大切にしていることは？",
+    "english": "What is important in your lifestyle?"
+  },
+  {
+    "japanese": "将来の生活でどんなことを楽しみにしていますか？",
+    "english": "What are you looking forward to in your future life?"
+  },
+  {
+    "japanese": "自分が抱える悩みや不安をどうやって解決しますか？",
+    "english": "How do you solve your worries or concerns?"
+  },
+  {
+    "japanese": "どんな料理や食べ物が一番好きですか？",
+    "english": "What foods or dishes do you like the most?"
+  },
+  {
+    "japanese": "理想の家や住まいについての考えは？",
+    "english": "What is your ideal home or living situation?"
+  },
+  {
+    "japanese": "日常の中での楽しみや楽しみ方は？",
+    "english": "How do you find joy or enjoyment in daily life?"
+  },
+  {
+    "japanese": "どんなサポートや助けをお互いに期待していますか？",
+    "english": "What support or assistance do you expect from each other?"
+  },
+  {
+    "japanese": "一番好きな季節や天気は？",
+    "english": "What is your favorite season or weather?"
+  },
+  {
+    "japanese": "自分の生活の中で重要視していることは何ですか？",
+    "english": "What do you prioritize in your daily life?"
+  },
+  {
+    "japanese": "将来の目標に向けての具体的なアクションは？",
+    "english": "What actions or plans are you taking towards your future goals?"
+  },
+  {
+    "japanese": "理想のデートプランで特に気に入っていることは？",
+    "english": "What do you like most about your ideal date plan?"
+  },
+  {
+    "japanese": "お互いの価値観や信念にどのように向き合っていますか？",
+    "english": "How do you address differences in values or beliefs?"
+  },
+  {
+    "japanese": "一緒に過ごす時間で特に楽しみなことは？",
+    "english": "What would you particularly enjoy about the time spent together?"
+  },
+  {
+    "japanese": "自分の家族や友人との関係をどう構築していますか？",
+    "english": "How do you build relationships with your family and friends?"
+  },
+  {
+    "japanese": "自分にとって「幸福」とはどういうものですか？",
+    "english": "What does \"happiness\" mean to you?"
+  },
+  {
+    "japanese": "将来の計画で楽しみにしていることは？",
+    "english": "What are you most excited about in your future plans?"
+  },
+  {
+    "japanese": "自分の価値観や信念をどうやって守っていますか？",
+    "english": "How do you protect your values and beliefs?"
+  },
+  {
+    "japanese": "理想の休日の過ごし方で特に楽しみたいアクティビティは？",
+    "english": "What activities would you most enjoy during a holiday?"
+  },
+  {
+    "japanese": "一緒にしたい旅行や冒険のアイデアは？",
+    "english": "Do you have any travel or adventure ideas you'd like to share?"
+  },
+  {
+    "japanese": "お互いにどんなサポートをしていきたいですか？",
+    "english": "What kind of support do you want to offer each other?"
+  },
+  {
+    "japanese": "幸せを感じる瞬間をどうやって共有していますか？",
+    "english": "How do you share moments of happiness?"
+  },
+  {
+    "japanese": "将来の夢や目標に向けての具体的な計画は？",
+    "english": "What specific plans or actions are you taking towards your future goals?"
+  },
+  {
+    "japanese": "自分のライフスタイルで重要視していることは？",
+    "english": "What is important in your lifestyle?"
+  },
+  {
+    "japanese": "理想のデートプランや特別な日の過ごし方は？",
+    "english": "What do you like most about your ideal date or special day plans?"
+  },
+  {
+    "japanese": "どんな価値観や信念を持っていますか？",
+    "english": "What values or beliefs are important to you?"
+  },
+  {
+    "japanese": "自分の特技や趣味をどう活かしていますか？",
+    "english": "How do you use your skills or hobbies?"
+  },
+  {
+    "japanese": "一緒に過ごす時間で特に大切にしたいことは？",
+    "english": "What do you want to focus on during the time spent together?"
+  },
+  {
+    "japanese": "将来に向けての夢や目標についての具体的な考えは？",
+    "english": "What are your specific thoughts about your future goals?"
+  },
+  {
+    "japanese": "理想の家や住まいについての具体的な考えは？",
+    "english": "What are your specific ideas about your ideal home or living situation?"
+  },
+  {
+    "japanese": "日常生活の中で楽しみや喜びをどう見つけていますか？",
+    "english": "How do you find joy or happiness in your daily life?"
+  },
+  {
+    "japanese": "お互いの家族や友人との関係をどう築いていきたいですか？",
+    "english": "How do you want to build relationships with each other's family and friends?"
+  },
+  {
+    "japanese": "自分にとっての「ロマンチックな瞬間」はどんなものですか？",
+    "english": "What is your idea of a \"romantic moment\"?"
+  },
+  {
+    "japanese": "将来の生活で特に楽しみにしていることは？",
+    "english": "What are you most excited about in your future life?"
+  },
+  {
+    "japanese": "理想のデートプランで大切にしていることは？",
+    "english": "What do you like most about your ideal date plans?"
+  },
+  {
+    "japanese": "自分の性格や特性をどう理解していますか？",
+    "english": "How do you understand your own personality and traits?"
+  },
+  {
+    "japanese": "日常の中での楽しみや喜びをどう見つけていますか？",
+    "english": "How do you find joy or enjoyment in daily life?"
+  },
+  {
+    "japanese": "一緒に過ごす時間で特に楽しみにしていることは？",
+    "english": "What are you particularly looking forward to in the time spent together?"
+  },
+  {
+    "japanese": "将来の目標に向けてのアクションや計画は？",
+    "english": "What actions or plans are you taking towards your future goals?"
+  },
+  {
+    "japanese": "自分の価値観や信念をどう守っていますか？",
+    "english": "How do you protect your values and beliefs?"
+  },
+  {
+    "japanese": "幸せを感じる瞬間や特別な出来事をどう共有したいですか？",
+    "english": "How do you want to share moments of happiness or special events?"
   }
 ]

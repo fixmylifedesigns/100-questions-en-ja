@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 // Replace with your actual Google Translate API key
-const GOOGLE_TRANSLATE_API_KEY = "AIzaSyAho3iyPuT2yumTDf_pGfCcXLjp8m0gymE";
+const GOOGLE_TRANSLATE_API_KEY = process.env.REACT_APP_API_KEY;
 
 const translateText = async (text, targetLang) => {
   try {

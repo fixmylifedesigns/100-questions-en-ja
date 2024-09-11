@@ -1,8 +1,5 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import CardGame from "./components/ui/CardGame";
-import { Button } from "./components/ui/Button";
-import { ChevronLeft, ChevronRight, Shuffle } from "lucide-react";
-import questions from "./questions.json";
 import MessageBoard from "./components/MessageBoard";
 
 const App = () => {

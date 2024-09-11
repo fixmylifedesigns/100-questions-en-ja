@@ -5,7 +5,7 @@ import MessageBoard from "./components/MessageBoard";
 const App = () => {
   return (
     <div className="flex flex-col h-screen bg-gray-100">
-      <h1 style={{ textAlign: "center" }}>Bilingual Message Board</h1>
+      <h1 style={{ textAlign: "center" }}>100 Questions</h1>
       <div className="flex-1 flex items-center justify-center p-4">
         <CardGame />
       </div>

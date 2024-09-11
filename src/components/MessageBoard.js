@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import image from "../logo.webp";
 
-// Replace with your actual Google Translate API key
 const GOOGLE_TRANSLATE_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY;
 
 const translateText = async (text, targetLang) => {
@@ -41,7 +41,7 @@ function MessageBoard() {
   const [messages, setMessages] = useState([]);
   const [inputText, setInputText] = useState("");
   const [isLoading, setIsLoading] = useState(false);
-
+  const bottomRef = useRef(null);
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (inputText.trim() !== "") {
@@ -67,6 +67,11 @@ function MessageBoard() {
     }
   };
 
+  useEffect(() => {
+    // Scroll to the bottom whenever the data changes or on component refresh
+    bottomRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages]);
+
   const handleClear = () => {
     setMessages([]);
   };
@@ -82,6 +87,13 @@ function MessageBoard() {
     >
       <div
         style={{
+          // backgroundImage: `url(${image})`,
+          backgroundImage: `    linear-gradient(to bottom, rgba(245, 246, 300, 0.3), rgba(117, 19, 93, 0.73)),
+    url(${image})`,
+          backgroundSize: "contain",
+          backgroundRepeat: "no-repeat",
+          backgroundColor: "#CA5B4E",
+          backgroundPosition: "center",
           border: "1px solid #ccc",
           borderRadius: "5px",
           padding: "10px",
@@ -115,6 +127,7 @@ function MessageBoard() {
                 {message.translated}
               </div>
             </div>
+            <div ref={bottomRef} />
           </div>
         ))}
       </div>
